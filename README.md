@@ -22,14 +22,28 @@ A modern, responsive portfolio website built with React, based on Dilip's resume
 
 ## Deploy to GitHub Pages
 
-1. Set the `homepage` field in `package.json` to your GitHub Pages URL, e.g.:
-   ```json
-   "homepage": "https://yourusername.github.io/dilip-portfolio"
-   ```
-2. Deploy:
-   ```bash
-   npm run deploy
-   ```
+This portfolio is configured to automatically deploy to GitHub Pages when changes are pushed to the `main` branch.
+
+### Automatic Deployment
+
+The repository includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) that:
+1. Builds the React application
+2. Deploys it to GitHub Pages automatically
+
+**To enable automatic deployment:**
+1. Go to your repository Settings → Pages
+2. Under "Source", select "GitHub Actions"
+3. Push changes to the `main` branch
+4. The site will be automatically deployed to `https://dilipvcu.github.io/Portfolio`
+
+### Manual Build
+
+To build the application locally:
+```bash
+npm run build
+```
+
+The build output will be in the `build/` directory.
 
 ## Customizing Resume Data
 
