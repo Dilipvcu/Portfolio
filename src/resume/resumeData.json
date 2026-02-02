@@ -79,7 +79,7 @@
   { "name": "Advanced Algorithms" },
   { "name": "Software enabled AI", "presentations": [ { "type": "Paper", "title": "Ethical considerations in AI system", "description":"Authored a research paper on ethical considerations in AI systems, focusing on bias mitigation and transparency." } ] },
   { "name": "Human AI interaction", "presentations": [ { "type": "Project", "title": "Debt-manager system", "description": "Developed an AI-powered debt management application using LangGraph and Streamlit, enabling users to visualize and manage their debts effectively." } ] },
-  { "name": "Image analysis", "presentations": [ { "type": "Paper", "title": "Detection and classification of skin lesions using deeep learning", "description": "Research paper on deep learning–based multi-class skin lesion classification using transfer learning (ResNet50), achieving 83.45% test accuracy and a mean AUC of 0.9689 on the HAM10000 dataset." } ] }
+  { "name": "Image analysis", "presentations": [ { "type": "Paper", "title": "Detection and classification of skin lesions using deeep learning", "description": "Research paper on deep learning–based multi-class skin lesion classification using transfer learning (ResNet50), achieving 83.45% test accuracy and a mean AUC of 0.9689 on the HAM10000 dataset." } ] },
   { "name": "Cryptocurrency and blockchain" }     
       ]
     },
