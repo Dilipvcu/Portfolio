@@ -1,0 +1,140 @@
+{
+  "name": "Dilip Bukkambudhi Ganesh",
+  "title": "Aspiring Software Engineer",
+  "contact": {
+    "email": "dilipbganesh0205@gmail.com",
+    "phone": "+1 (804)551 8521",
+    "location": "Richmond, VA",
+    "linkedin": "https://www.linkedin.com/in/dilip-ganesh-1b8b50247",
+    "github": "https://github.com/dilipvcu"
+  },
+  "contactItems": [
+    {
+      "icon": "📧",
+      "label": "Email",
+      "valueKey": "email",
+      "color": "from-blue-500 to-cyan-500",
+      "delay": "0s"
+    },
+    {
+      "icon": "📱",
+      "label": "Phone",
+      "valueKey": "phone",
+      "color": "from-purple-500 to-pink-500",
+      "delay": "0.1s"
+    },
+    {
+      "icon": "📍",
+      "label": "Location",
+      "valueKey": "location",
+      "color": "from-green-500 to-emerald-500",
+      "delay": "0.2s"
+    },
+    {
+      "icon": "💼",
+      "label": "LinkedIn",
+      "value": "Connect with me",
+      "linkKey": "linkedin",
+      "color": "from-indigo-500 to-blue-500",
+      "delay": "0.3s"
+    },
+    {
+      "icon": "💻",
+      "label": "GitHub",
+      "value": "View my code",
+      "linkKey": "github",
+      "color": "from-violet-500 to-purple-500",
+      "delay": "0.4s"
+    }
+  ],
+  "summary": "I am a graduate student in Computer Science at Virginia Commonwealth University with interests spanning software development, machine learning, data science, and blockchain. I enjoy building end-to-end AI systems, from data preprocessing and feature engineering to model training, evaluation, and deployment. My recent work includes a content-based image retrieval system in MATLAB and an AI-powered debt management application built with LangGraph and Streamlit.",
+  "experience": [
+    {
+      "role": "Web Development Intern",
+      "company": "Patil Clinic",
+      "location": "Bengaluru, India",
+      "duration": "Mar 2024 – Aug 2024",
+      "details": [
+        "Developed and maintained the clinic's website, improving user experience and accessibility. Collaborated with healthcare professionals to implement features that enhanced patient engagement and streamlined appointment scheduling."
+      ]
+    },
+    {
+      "role": "Full Stack Intern",
+      "company": "Tekkybench",
+      "location": "Bengaluru, India", 
+      "duration": "Jan 2023 – June 2023",
+      "details": [
+        "Contributed to the development of web applications using JavaScript, React, and Node.js. Collaborated with cross-functional teams to design and implement new features."
+      ]
+    }
+   
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Virginia Commonwealth University",
+      "location": "Richmond, VA",
+      "duration": "2025 – Present",
+      "courses": [
+  { "name": "Advanced Algorithms" },
+  { "name": "Software enabled AI", "presentations": [ { "type": "Paper", "title": "Ethical considerations in AI system", "description":"Authored a research paper on ethical considerations in AI systems, focusing on bias mitigation and transparency." } ] },
+  { "name": "Human AI interaction", "presentations": [ { "type": "Project", "title": "Debt-manager system", "description": "Developed an AI-powered debt management application using LangGraph and Streamlit, enabling users to visualize and manage their debts effectively." } ] },
+  { "name": "Image analysis", "presentations": [ { "type": "Paper", "title": "Detection and classification of skin lesions using deeep learning", "description": "Research paper on deep learning–based multi-class skin lesion classification using transfer learning (ResNet50), achieving 83.45% test accuracy and a mean AUC of 0.9689 on the HAM10000 dataset." } ] }
+      ]
+    },
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "CMR Institute of Technology",
+      "location": "Bengaluru, India",
+      "duration": "2020 – 2024",
+      "courses": [
+        { "name": "Data Structures" },
+        { "name": "Operating Systems", "presentations": [ { "type": "Paper", "title": "Kernel Scheduling Techniques", "description": "Comparative analysis of various CPU scheduling algorithms including priority-based and round-robin approaches in modern operating systems" } ] },
+        { "name": "Computer Networks", "presentations": [ { "type": "Project", "title": "Network Simulator Tool", "description": "Developed a packet-level network simulator to model TCP/IP protocols and analyze network performance under different traffic conditions" } ] },
+        { "name": "Software Engineering", "presentations": [ { "type": "Project", "title": "Agile Dev Case Study", "description": "Case study implementing Scrum methodology for a team project, documenting sprint planning and retrospective processes" } ] }
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "AWS",
+    "Docker",
+    "Java",
+    "MongoDB",
+    "SQL",
+    "PostgreSQL",
+    "Git",
+    "REST APIs"
+    
+  ],
+  "projects": [
+    
+    {
+      "name": "Debt manager + AI Summarizer",
+      "description": "Built an AI-driven debt management tool using Python, LangGraph, and Streamlit to analyze and summarize user financial data, generate actionable insights through structured AI workflows, and present results via an interactive web interface with clear visualizations.",
+      "link": "https://github.com/Dilipvcu/Debt-manager-system"
+    },
+    {
+      "name": "Amusement park management system",
+      "description": "Created a comprehensive amusement park management system using React,JavaScript, Node.js, and SQLite, featuring modules for ticketing, ride scheduling, and customer relationship management to streamline park operations and enhance visitor experience.",
+      "link": "https://github.com/Dilipvcu/Amusement-park"
+    },
+    {
+      "name": "Expense Tracker",
+      "description": "Developed a personal finance management tool using React, Node.js, and MongoDB, allowing users to track expenses, set budgets, and visualize spending patterns through interactive charts.",
+      "link": "https://github.com/Dilipvcu/Expense-tracker"
+    },
+    {
+      "name": "Content-Based Image Retrieval",
+      "description": "Developed a content-based image retrieval system using MATLAB, implementing feature extraction techniques like color histograms, texture analysis, and edge detection to enable efficient image similarity searches.",
+      "link": ""
+    }
+    
+  ]
+}
