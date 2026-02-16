@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.052a91e1.css",
-    "main.js": "/portfolio.github.io/static/js/main.c9bda133.js",
-    "static/media/debt.webp": "/portfolio.github.io/static/media/debt.6efb4f7228272d4cb331.webp",
-    "static/media/amu.webp": "/portfolio.github.io/static/media/amu.eb11ecbf010b5d81f999.webp",
-    "static/media/dig.webp": "/portfolio.github.io/static/media/dig.1b9c73d816ae85807a61.webp",
-    "index.html": "/portfolio.github.io/index.html",
-    "main.052a91e1.css.map": "/portfolio.github.io/static/css/main.052a91e1.css.map",
-    "main.c9bda133.js.map": "/portfolio.github.io/static/js/main.c9bda133.js.map"
+    "main.css": "/Portfolio/static/css/main.052a91e1.css",
+    "main.js": "/Portfolio/static/js/main.6c7122fa.js",
+    "static/media/debt.webp": "/Portfolio/static/media/debt.6efb4f7228272d4cb331.webp",
+    "static/media/amu.webp": "/Portfolio/static/media/amu.eb11ecbf010b5d81f999.webp",
+    "static/media/dig.webp": "/Portfolio/static/media/dig.1b9c73d816ae85807a61.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.052a91e1.css.map": "/Portfolio/static/css/main.052a91e1.css.map",
+    "main.6c7122fa.js.map": "/Portfolio/static/js/main.6c7122fa.js.map"
   },
   "entrypoints": [
     "static/css/main.052a91e1.css",
-    "static/js/main.c9bda133.js"
+    "static/js/main.6c7122fa.js"
   ]
 }
